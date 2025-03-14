@@ -4,3 +4,5 @@ console.log("this is my laptop!");
 const fruits = ["orange", "apple", "banana"];
 
 const cars = ["toyota", "nissan", "lambogramni"];
+
+// IMPLEMENT UPGENT FIX!
